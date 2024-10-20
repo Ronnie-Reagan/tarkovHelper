@@ -21,6 +21,7 @@ To assist you in this process, refer to the screenshot below:
 2. Follow the steps outlined above to unblock the installer.
 3. Double-click the installer to begin the installation process.
 4. Follow the on-screen instructions to complete the installation.
+5. **NOTE** there are current bugs, you may need to run the installer up to 4 or 5 times at most, my apoligies.
 
 ## Features
 
