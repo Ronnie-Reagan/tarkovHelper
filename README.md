@@ -32,10 +32,6 @@ To assist you in this process, refer to the screenshot below:
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or issues, please open an issue in this repository or contact the project maintainer.
