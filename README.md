@@ -17,7 +17,7 @@ To assist you in this process, refer to the screenshot below:
 
 ## Installation Instructions
 
-1. Download the installer from the releases section.
+1. [Download](https://github.com/Ronnie-Reagan/tarkovHelper/releases/download/tarkovHelperInstaller/installer_tarkovHelper.exe) the installer from the releases section.
 2. Follow the steps outlined above to unblock the installer.
 3. Double-click the installer to begin the installation process.
 4. Follow the on-screen instructions to complete the installation.
